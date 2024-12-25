@@ -1,0 +1,14 @@
+Package: CalHypscore
+Title: Calculate hypoxia score
+Version: 0.0.0.9000
+Authors@R: 
+    person(given="Caiyu", family="Zhang", email="2020020493@hrbmu.edu.cn", role = c("aut", "cre"))
+Description: Allowing users to select different hypoxia gene sets to calculate the hypoxia score per sample, and the default parameter is RWnetHS.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+biocViews:
+Imports: 
+    GSVA
