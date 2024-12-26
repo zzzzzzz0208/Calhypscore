@@ -45,5 +45,5 @@ Input files
 Output files
 ==========
 
-    After running CalHypscore package, output a list
-    result.Rdata which includes the cells' or samples' id, the user-selected gene set, hypoxia sscores, and high/low hypoxia subgroups.
+    After running CalHypscore package, output a list.
+    result.Rdata which includes the cells' or samples' id, the user-selected gene set, hypoxia scores, and high/low hypoxia subgroups.
